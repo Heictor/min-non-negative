@@ -5,3 +5,5 @@ This function was created, as motivational reason, for the analysis of populatio
 Despiste its orginal motivation, this function was built for multi-purpose applications.
 
 The function input is a M matrix, which all the non-negative elements are changed to "nan"(Not a Number) values, then the default "min" function runs on the "non-negativeM" matrix.
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11087370.svg)](https://doi.org/10.5281/zenodo.11087370)
